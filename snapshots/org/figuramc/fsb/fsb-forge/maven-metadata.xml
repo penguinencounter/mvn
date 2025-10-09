@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.figuramc.fsb</groupId>
+  <artifactId>fsb-forge</artifactId>
+  <versioning>
+    <latest>0.6.1+1.21.4-forge-SNAPSHOT</latest>
+    <versions>
+      <version>0.6.1+1.16.5-forge-SNAPSHOT</version>
+      <version>0.6.1+1.18.2-forge-SNAPSHOT</version>
+      <version>0.6.1+1.19.2-forge-SNAPSHOT</version>
+      <version>0.6.1+1.19.3-forge-SNAPSHOT</version>
+      <version>0.6.1+1.19.4-forge-SNAPSHOT</version>
+      <version>0.6.1+1.20.1-forge-SNAPSHOT</version>
+      <version>0.6.1+1.20.2-forge-SNAPSHOT</version>
+      <version>0.6.1+1.20.4-forge-SNAPSHOT</version>
+      <version>0.6.1+1.20.6-forge-SNAPSHOT</version>
+      <version>0.6.1+1.21.1-forge-SNAPSHOT</version>
+      <version>0.6.1+1.21.3-forge-SNAPSHOT</version>
+      <version>0.6.1+1.21.4-forge-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20260731194546</lastUpdated>
+  </versioning>
+</metadata>

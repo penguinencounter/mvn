@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+
+file=$1
+
+if [ -x $1 ]; then
+    echo "not found" 1>&2
+    exit 1
+fi
+
+sum() {
+    "${1}sum" < $file | awk -F " " '{printf($1)}' > $file.$1
+}
+
+sum md5
+sum sha1
+sum sha256
+sum sha512
