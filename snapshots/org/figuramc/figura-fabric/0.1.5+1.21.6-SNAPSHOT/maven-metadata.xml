@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.figuramc</groupId>
+  <artifactId>figura-fabric</artifactId>
+  <versioning>
+    <lastUpdated>20260119020919</lastUpdated>
+    <snapshot>
+      <timestamp>20260119.020919</timestamp>
+      <buildNumber>3</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>0.1.5+1.21.6-20260119.020919-3</value>
+        <updated>20260119020919</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.1.5+1.21.6-20260119.020919-3</value>
+        <updated>20260119020919</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1.5+1.21.6-20260119.020919-3</value>
+        <updated>20260119020919</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>0.1.5+1.21.6-SNAPSHOT</version>
+</metadata>

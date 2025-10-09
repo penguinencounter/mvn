@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.figuramc</groupId>
+  <artifactId>figura-common-intermediary</artifactId>
+  <versioning>
+    <lastUpdated>20260117045345</lastUpdated>
+    <snapshot>
+      <timestamp>20260117.045345</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.1.5+1.21.10-20260117.045345-1</value>
+        <updated>20260117045345</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>0.1.5+1.21.10-20260117.045345-1</value>
+        <updated>20260117045345</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1.5+1.21.10-20260117.045345-1</value>
+        <updated>20260117045345</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>0.1.5+1.21.10-SNAPSHOT</version>
+</metadata>
