@@ -3,27 +3,27 @@
   <groupId>org.figuramc</groupId>
   <artifactId>figura-forge</artifactId>
   <versioning>
-    <lastUpdated>20251030061532</lastUpdated>
+    <lastUpdated>20251126011124</lastUpdated>
     <snapshot>
-      <timestamp>20251030.061532</timestamp>
-      <buildNumber>3</buildNumber>
+      <timestamp>20251126.011124</timestamp>
+      <buildNumber>4</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.1.5+1.20.1-20251030.061532-3</value>
-        <updated>20251030061532</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>pom</extension>
-        <value>0.1.5+1.20.1-20251030.061532-3</value>
-        <updated>20251030061532</updated>
+        <value>0.1.5+1.20.1-20251126.011124-4</value>
+        <updated>20251126011124</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.1.5+1.20.1-20251030.061532-3</value>
-        <updated>20251030061532</updated>
+        <value>0.1.5+1.20.1-20251126.011124-4</value>
+        <updated>20251126011124</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1.5+1.20.1-20251126.011124-4</value>
+        <updated>20251126011124</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
