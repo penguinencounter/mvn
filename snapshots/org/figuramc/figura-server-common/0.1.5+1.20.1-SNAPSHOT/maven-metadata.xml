@@ -3,27 +3,27 @@
   <groupId>org.figuramc</groupId>
   <artifactId>figura-server-common</artifactId>
   <versioning>
-    <lastUpdated>20260115025943</lastUpdated>
+    <lastUpdated>20260124211653</lastUpdated>
     <snapshot>
-      <timestamp>20260115.025943</timestamp>
-      <buildNumber>5</buildNumber>
+      <timestamp>20260124.211653</timestamp>
+      <buildNumber>6</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1.5+1.20.1-20260124.211653-6</value>
+        <updated>20260124211653</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.1.5+1.20.1-20260124.211653-6</value>
+        <updated>20260124211653</updated>
+      </snapshotVersion>
+      <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.1.5+1.20.1-20260115.025943-5</value>
-        <updated>20260115025943</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>pom</extension>
-        <value>0.1.5+1.20.1-20260115.025943-5</value>
-        <updated>20260115025943</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>0.1.5+1.20.1-20260115.025943-5</value>
-        <updated>20260115025943</updated>
+        <value>0.1.5+1.20.1-20260124.211653-6</value>
+        <updated>20260124211653</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
