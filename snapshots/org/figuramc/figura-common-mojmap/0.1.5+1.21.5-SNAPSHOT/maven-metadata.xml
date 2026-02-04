@@ -3,27 +3,27 @@
   <groupId>org.figuramc</groupId>
   <artifactId>figura-common-mojmap</artifactId>
   <versioning>
-    <lastUpdated>20260115030530</lastUpdated>
+    <lastUpdated>20260204230606</lastUpdated>
     <snapshot>
-      <timestamp>20260115.030530</timestamp>
-      <buildNumber>3</buildNumber>
+      <timestamp>20260204.230606</timestamp>
+      <buildNumber>4</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <extension>pom</extension>
-        <value>0.1.5+1.21.5-20260115.030530-3</value>
-        <updated>20260115030530</updated>
+        <extension>jar</extension>
+        <value>0.1.5+1.21.5-20260204.230606-4</value>
+        <updated>20260204230606</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.1.5+1.21.5-20260115.030530-3</value>
-        <updated>20260115030530</updated>
+        <value>0.1.5+1.21.5-20260204.230606-4</value>
+        <updated>20260204230606</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <extension>jar</extension>
-        <value>0.1.5+1.21.5-20260115.030530-3</value>
-        <updated>20260115030530</updated>
+        <extension>pom</extension>
+        <value>0.1.5+1.21.5-20260204.230606-4</value>
+        <updated>20260204230606</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
