@@ -3,7 +3,7 @@
   <groupId>org.figuramc</groupId>
   <artifactId>figura-common-intermediary</artifactId>
   <versioning>
-    <latest>0.1.5+1.21.5-SNAPSHOT</latest>
+    <latest>0.1.5+1.21.6-SNAPSHOT</latest>
     <versions>
       <version>0.1.5+1.20.1-SNAPSHOT</version>
       <version>0.1.5+1.21.5-SNAPSHOT</version>
@@ -11,6 +11,6 @@
       <version>0.1.5+1.21.8-SNAPSHOT</version>
       <version>0.1.5+1.21.10-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20260204231017</lastUpdated>
+    <lastUpdated>20260204233903</lastUpdated>
   </versioning>
 </metadata>
