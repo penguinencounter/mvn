@@ -3,27 +3,27 @@
   <groupId>org.figuramc</groupId>
   <artifactId>figura-fabric</artifactId>
   <versioning>
-    <lastUpdated>20260324054943</lastUpdated>
+    <lastUpdated>20260407003930</lastUpdated>
     <snapshot>
-      <timestamp>20260324.054943</timestamp>
-      <buildNumber>5</buildNumber>
+      <timestamp>20260407.003930</timestamp>
+      <buildNumber>6</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <extension>pom</extension>
-        <value>0.1.5+1.21.10-20260324.054943-5</value>
-        <updated>20260324054943</updated>
+        <extension>jar</extension>
+        <value>0.1.5+1.21.10-20260407.003930-6</value>
+        <updated>20260407003930</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.1.5+1.21.10-20260324.054943-5</value>
-        <updated>20260324054943</updated>
+        <value>0.1.5+1.21.10-20260407.003930-6</value>
+        <updated>20260407003930</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <extension>jar</extension>
-        <value>0.1.5+1.21.10-20260324.054943-5</value>
-        <updated>20260324054943</updated>
+        <extension>pom</extension>
+        <value>0.1.5+1.21.10-20260407.003930-6</value>
+        <updated>20260407003930</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
