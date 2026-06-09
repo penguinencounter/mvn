@@ -16,7 +16,7 @@
             --highlight-bar: #206020;
             --link: #8080ff;
             --link-visited: #b080ff;
-
+            --aside: #b0b0b0;
             --outdated: #602828;
             --outdated2: #ff8080;
             --unofficial: #602860;
@@ -32,6 +32,7 @@
                 --highlight-bar: #80e880;
                 --link: #4040b0;
                 --link-visited: #8040b0;
+                --aside: #404040;
             }
         }
 
@@ -141,6 +142,7 @@
             --back: #808;
             background-color: var(--back);
             border: 1px solid var(--border);
+            color: #e8e8e8;
         }
 
         .label#_unofficial {
@@ -151,6 +153,10 @@
         .label#_outdated {
             --border: var(--outdated2);
             --back: var(--outdated);
+        }
+
+        .footer {
+            color: var(--aside);
         }
 
         [hidden] {
