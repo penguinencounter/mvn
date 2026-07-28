@@ -1,0 +1,16 @@
+on:
+    push:
+        branches: main
+
+jobs:
+    do-it:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v7
+            - run: |
+                sizes=$(du -h releases snapshots --summarize --total)
+                echo "## Repository size" >> $GITHUB_STEP_SUMMARY
+                echo "" >> $GITHUB_STEP_SUMMARY
+                echo '```' >> $GITHUB_STEP_SUMMARY
+                echo "$sizes" >> $GITHUB_STEP_SUMMARY
+                echo '```' >> $GITHUB_STEP_SUMMARY
