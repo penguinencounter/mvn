@@ -1,16 +1,33 @@
 on:
-    push:
-        branches: main
+  push:
+    branches: main
 
 jobs:
-    do-it:
-        runs-on: ubuntu-latest
-        steps:
-            - uses: actions/checkout@v7
-            - run: |
-                sizes=$(du -h releases snapshots --summarize --total)
-                echo "## Repository size" >> $GITHUB_STEP_SUMMARY
-                echo "" >> $GITHUB_STEP_SUMMARY
-                echo '```' >> $GITHUB_STEP_SUMMARY
-                echo "$sizes" >> $GITHUB_STEP_SUMMARY
-                echo '```' >> $GITHUB_STEP_SUMMARY
+  do-it:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.PUSH_TOK }}
+      - run: |
+          sizes=$(du -h releases snapshots --summarize --total)
+          echo "## Repository size" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+          echo "$sizes" >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+      - uses: astral-sh/setup-uv@c771a70e6277c0a99b617c7a806ffedaca235ff9
+      - run: |
+          uv run --frozen prune.py
+      - run: |
+          git add .
+          if git diff --quiet && git diff --cached --quiet; then
+            echo "nothing to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "✂️ Automated pruning"
+          git pull --rebase
+          git push -u origin main  # should be fast-forward
