@@ -3,33 +3,33 @@
   <groupId>org.figuramc.fsb</groupId>
   <artifactId>fsb-forge</artifactId>
   <versioning>
-    <lastUpdated>20260801024101</lastUpdated>
+    <lastUpdated>20260801203222</lastUpdated>
     <snapshot>
-      <timestamp>20260801.024101</timestamp>
-      <buildNumber>17</buildNumber>
+      <timestamp>20260801.203222</timestamp>
+      <buildNumber>18</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <extension>pom</extension>
-        <value>0.6.1+1.21.1-forge-20260801.024101-17</value>
-        <updated>20260801024101</updated>
+        <extension>jar</extension>
+        <value>0.6.1+1.21.1-forge-20260801.203222-18</value>
+        <updated>20260801203222</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <extension>jar</extension>
-        <value>0.6.1+1.21.1-forge-20260801.024101-17</value>
-        <updated>20260801024101</updated>
+        <extension>pom</extension>
+        <value>0.6.1+1.21.1-forge-20260801.203222-18</value>
+        <updated>20260801203222</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>component</classifier>
         <extension>jar</extension>
-        <value>0.6.1+1.21.1-forge-20260801.024101-17</value>
-        <updated>20260801024101</updated>
+        <value>0.6.1+1.21.1-forge-20260801.203222-18</value>
+        <updated>20260801203222</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.6.1+1.21.1-forge-20260801.024101-17</value>
-        <updated>20260801024101</updated>
+        <value>0.6.1+1.21.1-forge-20260801.203222-18</value>
+        <updated>20260801203222</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
