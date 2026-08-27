@@ -3,32 +3,32 @@
   <groupId>org.figuramc.fsb</groupId>
   <artifactId>fsb-server-api</artifactId>
   <versioning>
-    <lastUpdated>20260802044303</lastUpdated>
+    <lastUpdated>20260827213043</lastUpdated>
     <snapshot>
-      <timestamp>20260802.044303</timestamp>
-      <buildNumber>17</buildNumber>
+      <timestamp>20260827.213043</timestamp>
+      <buildNumber>18</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.6.1-20260802.044303-17</value>
-        <updated>20260802044303</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>0.6.1-20260802.044303-17</value>
-        <updated>20260802044303</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>module</extension>
-        <value>0.6.1-20260802.044303-17</value>
-        <updated>20260802044303</updated>
+        <value>0.6.1-20260827.213043-18</value>
+        <updated>20260827213043</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.6.1-20260802.044303-17</value>
-        <updated>20260802044303</updated>
+        <value>0.6.1-20260827.213043-18</value>
+        <updated>20260827213043</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>0.6.1-20260827.213043-18</value>
+        <updated>20260827213043</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.6.1-20260827.213043-18</value>
+        <updated>20260827213043</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
