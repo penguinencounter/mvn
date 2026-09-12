@@ -3,33 +3,33 @@
   <groupId>org.figuramc.fsb</groupId>
   <artifactId>fsb-common-intermediary</artifactId>
   <versioning>
-    <lastUpdated>20260827215744</lastUpdated>
+    <lastUpdated>20260912214523</lastUpdated>
     <snapshot>
-      <timestamp>20260827.215744</timestamp>
-      <buildNumber>22</buildNumber>
+      <timestamp>20260912.214523</timestamp>
+      <buildNumber>23</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.6.1+1.20.6-20260827.215744-22</value>
-        <updated>20260827215744</updated>
+        <value>0.6.1+1.20.6-20260912.214523-23</value>
+        <updated>20260912214523</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.6.1+1.20.6-20260912.214523-23</value>
+        <updated>20260912214523</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.6.1+1.20.6-20260827.215744-22</value>
-        <updated>20260827215744</updated>
+        <value>0.6.1+1.20.6-20260912.214523-23</value>
+        <updated>20260912214523</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>fat</classifier>
         <extension>jar</extension>
-        <value>0.6.1+1.20.6-20260827.215744-22</value>
-        <updated>20260827215744</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>0.6.1+1.20.6-20260827.215744-22</value>
-        <updated>20260827215744</updated>
+        <value>0.6.1+1.20.6-20260912.214523-23</value>
+        <updated>20260912214523</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
