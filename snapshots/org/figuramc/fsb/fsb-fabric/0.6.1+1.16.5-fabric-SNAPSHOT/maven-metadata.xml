@@ -3,33 +3,33 @@
   <groupId>org.figuramc.fsb</groupId>
   <artifactId>fsb-fabric</artifactId>
   <versioning>
-    <lastUpdated>20260913065612</lastUpdated>
+    <lastUpdated>20260913195441</lastUpdated>
     <snapshot>
-      <timestamp>20260913.065612</timestamp>
-      <buildNumber>25</buildNumber>
+      <timestamp>20260913.195441</timestamp>
+      <buildNumber>26</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.6.1+1.16.5-fabric-20260913.065612-25</value>
-        <updated>20260913065612</updated>
+        <value>0.6.1+1.16.5-fabric-20260913.195441-26</value>
+        <updated>20260913195441</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <extension>pom</extension>
-        <value>0.6.1+1.16.5-fabric-20260913.065612-25</value>
-        <updated>20260913065612</updated>
+        <extension>jar</extension>
+        <value>0.6.1+1.16.5-fabric-20260913.195441-26</value>
+        <updated>20260913195441</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>component</classifier>
         <extension>jar</extension>
-        <value>0.6.1+1.16.5-fabric-20260913.065612-25</value>
-        <updated>20260913065612</updated>
+        <value>0.6.1+1.16.5-fabric-20260913.195441-26</value>
+        <updated>20260913195441</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <extension>jar</extension>
-        <value>0.6.1+1.16.5-fabric-20260913.065612-25</value>
-        <updated>20260913065612</updated>
+        <extension>pom</extension>
+        <value>0.6.1+1.16.5-fabric-20260913.195441-26</value>
+        <updated>20260913195441</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
