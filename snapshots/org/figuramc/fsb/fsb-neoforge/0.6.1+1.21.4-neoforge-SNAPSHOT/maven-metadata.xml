@@ -3,33 +3,33 @@
   <groupId>org.figuramc.fsb</groupId>
   <artifactId>fsb-neoforge</artifactId>
   <versioning>
-    <lastUpdated>20260912214523</lastUpdated>
+    <lastUpdated>20260913064952</lastUpdated>
     <snapshot>
-      <timestamp>20260912.214523</timestamp>
-      <buildNumber>23</buildNumber>
+      <timestamp>20260913.064952</timestamp>
+      <buildNumber>24</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <extension>pom</extension>
-        <value>0.6.1+1.21.4-neoforge-20260912.214523-23</value>
-        <updated>20260912214523</updated>
+        <extension>jar</extension>
+        <value>0.6.1+1.21.4-neoforge-20260913.064952-24</value>
+        <updated>20260913064952</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.6.1+1.21.4-neoforge-20260912.214523-23</value>
-        <updated>20260912214523</updated>
+        <value>0.6.1+1.21.4-neoforge-20260913.064952-24</value>
+        <updated>20260913064952</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>component</classifier>
         <extension>jar</extension>
-        <value>0.6.1+1.21.4-neoforge-20260912.214523-23</value>
-        <updated>20260912214523</updated>
+        <value>0.6.1+1.21.4-neoforge-20260913.064952-24</value>
+        <updated>20260913064952</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <extension>jar</extension>
-        <value>0.6.1+1.21.4-neoforge-20260912.214523-23</value>
-        <updated>20260912214523</updated>
+        <extension>pom</extension>
+        <value>0.6.1+1.21.4-neoforge-20260913.064952-24</value>
+        <updated>20260913064952</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
