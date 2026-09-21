@@ -1,0 +1,103 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.figuramc.fsb",
+    "module": "fsb-api",
+    "version": "0.6.1-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.5.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.mojang",
+          "module": "brigadier",
+          "version": {
+            "requires": "1.0.17"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.0"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "21.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "fsb-api-0.6.1-SNAPSHOT.jar",
+          "url": "fsb-api-0.6.1-SNAPSHOT.jar",
+          "size": 69291,
+          "sha512": "b0d95b82c01721b421ba655b30f26a5a37511da30d916a5a0f67c4c43ce66524a7de43ab0fc7639cf621a292e2b7689cfe44b9535856065a303399531aaf4998",
+          "sha256": "06ea8fbbb01b8f0615b8f1a38289714a502653fcd8208a6659e988214a61d336",
+          "sha1": "295e556c2546f1e4353bd4725e1828ac53eb706f",
+          "md5": "e96cb8ac488946c5aaacec52aea613cd"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "fsb-api-0.6.1-SNAPSHOT.jar",
+          "url": "fsb-api-0.6.1-SNAPSHOT.jar",
+          "size": 69291,
+          "sha512": "b0d95b82c01721b421ba655b30f26a5a37511da30d916a5a0f67c4c43ce66524a7de43ab0fc7639cf621a292e2b7689cfe44b9535856065a303399531aaf4998",
+          "sha256": "06ea8fbbb01b8f0615b8f1a38289714a502653fcd8208a6659e988214a61d336",
+          "sha1": "295e556c2546f1e4353bd4725e1828ac53eb706f",
+          "md5": "e96cb8ac488946c5aaacec52aea613cd"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "fsb-api-0.6.1-SNAPSHOT-sources.jar",
+          "url": "fsb-api-0.6.1-SNAPSHOT-sources.jar",
+          "size": 35382,
+          "sha512": "e97cdac1b5161c4472a1027f2528fef3a949d8e87f85094b6f3d6c5de06cf38675ae1f448822d56a0c2bdb3b54d8bc083a28b169dc0b39e89ee4ffeb076b7808",
+          "sha256": "5bf680b96eafc9a55dab5d0ebef4ba133747ba29beb6aedf2b4d6720bc9f792b",
+          "sha1": "5c3e13856e6a5452cf23ddf1e0721f4ef7869aab",
+          "md5": "a033fa070ea4bc5e002c630c13a6b11f"
+        }
+      ]
+    }
+  ]
+}
