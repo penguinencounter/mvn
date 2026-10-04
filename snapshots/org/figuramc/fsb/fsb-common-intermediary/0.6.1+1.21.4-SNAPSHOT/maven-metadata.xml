@@ -3,33 +3,33 @@
   <groupId>org.figuramc.fsb</groupId>
   <artifactId>fsb-common-intermediary</artifactId>
   <versioning>
-    <lastUpdated>20261004011145</lastUpdated>
+    <lastUpdated>20261004060025</lastUpdated>
     <snapshot>
-      <timestamp>20261004.011145</timestamp>
-      <buildNumber>30</buildNumber>
+      <timestamp>20261004.060025</timestamp>
+      <buildNumber>31</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.6.1+1.21.4-20261004.060025-31</value>
+        <updated>20261004060025</updated>
+      </snapshotVersion>
+      <snapshotVersion>
         <classifier>fat</classifier>
         <extension>jar</extension>
-        <value>0.6.1+1.21.4-20261004.011145-30</value>
-        <updated>20261004011145</updated>
+        <value>0.6.1+1.21.4-20261004.060025-31</value>
+        <updated>20261004060025</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.6.1+1.21.4-20261004.060025-31</value>
+        <updated>20261004060025</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.6.1+1.21.4-20261004.011145-30</value>
-        <updated>20261004011145</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>0.6.1+1.21.4-20261004.011145-30</value>
-        <updated>20261004011145</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>pom</extension>
-        <value>0.6.1+1.21.4-20261004.011145-30</value>
-        <updated>20261004011145</updated>
+        <value>0.6.1+1.21.4-20261004.060025-31</value>
+        <updated>20261004060025</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
